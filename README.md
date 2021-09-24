@@ -1,0 +1,1 @@
+Exercícios da disciplina Algoritmos e Técnicas de Programação III da Universidade FUMEC.
