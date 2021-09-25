@@ -1,1 +1,1 @@
-Exercícios da disciplina Algoritmos e Técnicas de Programação III da Universidade FUMEC.
+Exercícios da disciplina **Algoritmos e Técnicas de Programação III** do Curso de *Sistemas de Informação* da Universidade FUMEC.
